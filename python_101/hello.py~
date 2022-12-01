@@ -1,0 +1,4 @@
+#code that takes input from user and sends greetings
+
+name = input("What is your name  ")
+print("Good Morning" , name)
